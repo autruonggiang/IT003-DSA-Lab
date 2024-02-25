@@ -1,1 +1,1 @@
-# IT003-DSA
+# IT003 - Data Structures and Algorithms
